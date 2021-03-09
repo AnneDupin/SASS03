@@ -1,0 +1,10 @@
+/* Variables */
+$artichoke: #8B9474;
+$rajah: #F5A65B;
+
+#par_1 {
+  li {
+    color: $artichoke;
+    text-decoration: underline $rajah;
+  }
+}

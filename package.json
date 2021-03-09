@@ -1,0 +1,32 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "exercices descodeuses sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./style.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnneDupin/SASS.git"
+  },
+  "keywords": [
+    "sass",
+    "descodeuses",
+    "formation",
+    "exercices"
+  ],
+  "author": "Anne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnneDupin/SASS/issues"
+  },
+  "homepage": "https://github.com/AnneDupin/SASS#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  }
+}
